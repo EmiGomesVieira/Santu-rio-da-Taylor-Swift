@@ -1,0 +1,149 @@
+#imagem {
+    /* image 1 */
+
+
+    position: absolute;
+    width: 423px;
+    height: 423px;
+    left: 1100px;
+    top: 262px;
+
+    background: url();
+    border-radius: 73px;
+}
+
+#audio { 
+    /* Rectangle 2 */
+
+
+    position: absolute;
+    width: 423px;
+    height: 91px;
+    left: 1100px;
+    top: 766px;
+    }
+
+#legenda {
+      /* Album - Folklore */
+    
+    position: absolute;
+    width: 197px;
+    height: 31px;
+    left: 1230px;
+    top: 714px;
+    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    }
+
+#legendaII {
+      /* Album - Mirrorboll */
+    
+    position: absolute;
+    width: 197px;
+    height: 31px;
+    left: 1230px;
+    top: 714px;
+    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    }
+
+    #imagemII {
+      /* image 2 */
+  
+  
+      position: absolute;
+      width: 423px;
+      height: 423px;
+      left: 1100px;
+      top: 262px;
+  
+      background: url();
+      border-radius: 73px;
+  }
+
+#lover {
+  /* image 4 */
+
+
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  left: 840px;
+  top: 236px;
+  border-radius: 40px;  
+  background: url();
+}
+
+#reputation {
+  /* image 3 */
+
+
+position: absolute;
+height: 202px;
+width: 200px;
+left: 1280px;
+top: 236px;
+border-radius: 40px;
+background: url(image.png);
+
+}
+
+#speaknow {
+  /* image 2 */
+
+
+position: absolute;
+height: 200px;
+width: 200px;
+left: 400px;
+top: 234px;
+border-radius: 40px;
+background: url(image.png);
+}
+
+#umnoveoitonove {
+  /* image 5 */
+
+
+position: absolute;
+width: 200px;
+height: 200px;
+left: 400px;
+top: 512px;
+border-radius: 40px;
+background: url(image.png);
+}
+
+#folklore {
+  /* image 6 */
+
+
+position: absolute;
+width: 200px;
+height: 200px;
+left: 840px;
+top: 512px;
+background: url(image.png);
+border-radius: 40px;
+}
+
+#midnights{
+  /* image 1 */
+
+
+position: absolute;
+width: 200px;
+height: 200px;
+left: 1280px;
+top: 512px;
+background: url(image.png);
+border-radius: 40px;
+}
